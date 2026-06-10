@@ -36,7 +36,7 @@
 
 * **Framework Utama**: [React Native](https://reactnative.dev/) & [Expo](https://expo.dev/) (SDK 54)
 * **Navigasi**: [Expo Router](https://docs.expo.dev/router/introduction) (Tab dan Stack Navigation berbasis berkas)
-* **Bahasa Pemrograman**: **JavaScript / JSX** (sesuai peraturan lab, seluruh kode utama ditulis dalam format `.js` dan `.jsx` tanpa anotasi tipe TypeScript)
+* **Bahasa Pemrograman**: **JavaScript / JSX**
 * **Manajemen State**: React Context API (`AppContext.jsx` untuk menyimpan data user, keranjang, dan riwayat pesanan secara global)
 * **Ikon**: `@expo/vector-icons` (menggunakan pustaka `Ionicons` untuk antarmuka yang bersih dan modern)
 * **Keamanan/Sistem Styling**: Menggunakan Vanilla React Native `StyleSheet` yang responsif.
